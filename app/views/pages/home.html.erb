@@ -1,7 +1,15 @@
+<% if user_signed_in? %>
+<h1>you are logged in</h1>
+
+<% else %>
+
+
 <div class="hero-unit">
 <h1>Welcome to the Photoapp</h1>
 <p> you will be able to post random photos here </p>
 <p>
-  <%= link_to "Sign Up Now!", '#', class: "btn btn-primary btn-large" %>
+  <%= link_to "Sign Up Now!", new_user_registration_path, class: "btn btn-primary btn-large" %>
 </p>
 </div>
+
+<% end %>
