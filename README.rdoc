@@ -1,1 +1,2 @@
-a test app to refresh my memory on ROR
+This is a Pinterest-like webapp I decided to build in order to brush up on my ROR skills. 
+The url will be posted once the app is complete.
