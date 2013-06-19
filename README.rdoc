@@ -1,2 +1,2 @@
 This is a Pinterest-like webapp I decided to build in order to brush up on my ROR skills. 
-The url will be posted once the app is complete.
+http://stormy-hollows-1546.herokuapp.com/
